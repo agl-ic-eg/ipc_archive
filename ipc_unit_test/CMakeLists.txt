@@ -1,3 +1,5 @@
+# Copyright (c) 2021, Nippon Seiki Co., Ltd.
+# SPDX-License-Identifier: Apache-2.0
 
 # Define project Targets
 set(TEST_CLIENT_NAME ipc_unit_test_client)
