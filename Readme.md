@@ -4,12 +4,12 @@
 
 * ServerとClientの通信処理(IPC)部分を汎用的に実装したものです。
 * 大きく以下で構成されています。
-  * IPCライブラリ実装ソース: src, include
-  * IPC単体テスト用プログラム: ipc_unit_test
+  * IPCライブラリ実装ソース
+  * IPC単体テスト用プログラム
 
 # ビルド方法
 
-* 以下の手順でビルド可能です。
+* 以下の手順でビルド可能です。You can build it by following these steps:
   ```bash
   $ mkdir build
   $ cd build
