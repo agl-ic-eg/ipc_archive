@@ -7,4 +7,4 @@ Description: client and server ipc library by domain socket with defined shared 
 Version: @IPC_LIBRARY_VERSION@
 
 Cflags: -I${includedir}
-Libs: -L${libdir} -lipc
+Libs: -L${libdir} -lcluster_ipc

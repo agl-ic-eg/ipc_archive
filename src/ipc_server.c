@@ -27,7 +27,7 @@
 #include <sys/epoll.h>
 #include <pthread.h>
 
-#include <ipc.h>
+#include <cluster_ipc.h>
 
 #include "ipc_internal.h"
 

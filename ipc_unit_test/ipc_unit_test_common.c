@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-#include <ipc.h>
+#include <cluster_ipc.h>
 #include "ipc_unit_test_common.h"
 
 IPC_UNIT_TEST_DATA_LIST IcServiceList[] = {

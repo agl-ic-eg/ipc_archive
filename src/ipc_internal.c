@@ -20,7 +20,7 @@
 #include <stdlib.h>
 #include <sys/socket.h>
 
-#include <ipc.h>
+#include <cluster_ipc.h>
 #include "ipc_internal.h"
 
 int ipcCreateDomainName(IPC_USAGE_TYPE_E usageType, char *pOutName, int *pSize)

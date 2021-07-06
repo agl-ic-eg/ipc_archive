@@ -21,7 +21,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include <unistd.h>
-#include <ipc.h>
+#include <cluster_ipc.h>
 
 #include "ipc_unit_test_common.h"
 

@@ -16,7 +16,7 @@
  */
 
 
-#include <ipc.h>
+#include <cluster_ipc.h>
 #include "ipc_internal.h"
 
 #define DEFINE_OFFSET_SIZE(struct_name, member, kind) \

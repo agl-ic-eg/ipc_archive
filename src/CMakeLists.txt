@@ -34,4 +34,4 @@ install(
     LIBRARY DESTINATION ${CMAKE_INSTALL_FULL_LIBDIR}
 #    PUBLIC_HEADER DESTINATION include
 )
-install(FILES ../include/ipc.h ../include/ipc_protocol.h DESTINATION include)
+install(FILES ../include/cluster_ipc.h ../include/ipc_protocol.h DESTINATION include)

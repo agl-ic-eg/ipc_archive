@@ -26,7 +26,7 @@
 #include <sys/epoll.h>
 #include <errno.h>
 
-#include <ipc.h>
+#include <cluster_ipc.h>
 #include "ipc_internal.h"
 
 #define IPC_CLIENT_USAGE_MAX_NUM (4)
